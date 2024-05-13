@@ -1,0 +1,6 @@
+1 4 5 6 6 6 56 145 254 345 5473 
+1 2 3 4 5 
+1 2 3 4 5 
+Please input a number!
+Please input a number!
+1 3 4 7 8 99 124 
